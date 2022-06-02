@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Spice Must Flow", "09. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Poke Mon", "10. Poke Mon\10. Poke Mon.csproj", "{E799019E-BDAB-4DCE-ACD0-A1AB1CDB5D65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Snowballs", "ConsoleApp1\11. Snowballs.csproj", "{0FDA3EF7-2F00-4861-9CEB-51051073085C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{E799019E-BDAB-4DCE-ACD0-A1AB1CDB5D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E799019E-BDAB-4DCE-ACD0-A1AB1CDB5D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E799019E-BDAB-4DCE-ACD0-A1AB1CDB5D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDA3EF7-2F00-4861-9CEB-51051073085C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDA3EF7-2F00-4861-9CEB-51051073085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDA3EF7-2F00-4861-9CEB-51051073085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDA3EF7-2F00-4861-9CEB-51051073085C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

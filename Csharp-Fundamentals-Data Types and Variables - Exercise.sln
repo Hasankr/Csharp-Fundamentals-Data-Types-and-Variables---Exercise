@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Print Part Of ASCII Tab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ME Data Type Finder", "01.ME Data Type Finder\01.ME Data Type Finder.csproj", "{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Water Overflow", "07. Water Overflow\07. Water Overflow.csproj", "{71DCAD5E-DD83-4DE6-8C2C-BF48B0339B23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Beer Kegs", "08. Beer Kegs\08. Beer Kegs.csproj", "{8A546570-B23C-4BC6-BEC9-E6C7FB09E696}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71DCAD5E-DD83-4DE6-8C2C-BF48B0339B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71DCAD5E-DD83-4DE6-8C2C-BF48B0339B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71DCAD5E-DD83-4DE6-8C2C-BF48B0339B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71DCAD5E-DD83-4DE6-8C2C-BF48B0339B23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A546570-B23C-4BC6-BEC9-E6C7FB09E696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A546570-B23C-4BC6-BEC9-E6C7FB09E696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A546570-B23C-4BC6-BEC9-E6C7FB09E696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A546570-B23C-4BC6-BEC9-E6C7FB09E696}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

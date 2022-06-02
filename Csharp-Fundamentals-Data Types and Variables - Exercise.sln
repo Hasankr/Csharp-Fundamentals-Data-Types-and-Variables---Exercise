@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum of Chars", "04. Sum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Print Part Of ASCII Table", "05. Print Part Of ASCII Table\05. Print Part Of ASCII Table.csproj", "{FA7250A1-711C-43A0-AAEE-9D78480608D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ME Data Type Finder", "01.ME Data Type Finder\01.ME Data Type Finder.csproj", "{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FA7250A1-711C-43A0-AAEE-9D78480608D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA7250A1-711C-43A0-AAEE-9D78480608D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA7250A1-711C-43A0-AAEE-9D78480608D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA048DE0-EBFF-48E5-B5F6-9169BE2170C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,7 +6,12 @@ namespace _05._Print_Part_Of_ASCII_Table
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int firstSymbol = int.Parse(Console.ReadLine());
+            int lastSymbol = int.Parse(Console.ReadLine());
+            for (int i = firstSymbol; i <= lastSymbol; i++)
+            {
+                Console.Write($"{(char)i} ");
+            }
         }
     }
 }
